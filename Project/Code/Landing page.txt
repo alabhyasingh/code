@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<h1> I LOVE TOMATOES </h1>
+<p> tomato tomato tomato</p>
+<p> tomato tomato tomato </p>
+<p> tomato tomato tomato </p>
+<img src="C:\Users\USER\Desktop\Project\Code\download.jpg">
+</body>
+</html>
